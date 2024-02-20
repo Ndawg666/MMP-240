@@ -1,4 +1,12 @@
 body{
     background-color: thistle;
-    border: solid 13px black
+    font-family:Times, sans-serif;
+    margin: 24px;
+    width: 1200px;
+    border: dotted 5px maroon;
+    padding: 1em;
+}
+h1,h2,h3{font-family: 'Times New Roman', Times, serif;
+color: brown;
+font-size: 1.7rem;
 }
