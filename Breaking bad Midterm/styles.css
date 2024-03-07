@@ -1,0 +1,39 @@
+body{
+    font family: Arial, Sans Serif;
+    Margin 0
+    Padding 0
+    Background: color #f0f0f0;
+}
+header{
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+.container{
+    max-width: 800px;
+    margin: auto;
+    padding: 2rem;
+}
+h1{
+    margin-top: 0%;
+}
+p{
+    line-height: 1.6;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+}
+nav{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.btn{
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin-right: 1rem;
+    background-color: #fffb00;
+}
