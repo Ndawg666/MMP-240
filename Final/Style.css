@@ -82,7 +82,7 @@ h1{
     color: gray;
 }
 .dropdown li a:hover{
-    color: maroon;
+    color: rgb(8, 0, 255);
 }
 .expand{
     float: right;
@@ -206,7 +206,7 @@ grid-column-end: 4;
 
 .hero-text {
     position: absolute;
-    top: 50%;
+    top: 135%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
